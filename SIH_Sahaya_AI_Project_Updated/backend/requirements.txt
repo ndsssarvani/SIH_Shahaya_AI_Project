@@ -1,0 +1,19 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+pydantic[email]
+pydantic-settings
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+scikit-learn
+joblib
+numpy
+deep-translator
+
+# Optional — voice DSP audio analysis
+# librosa
+# soundfile
+

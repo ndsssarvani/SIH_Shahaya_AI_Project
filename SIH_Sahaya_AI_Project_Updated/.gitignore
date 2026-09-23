@@ -1,0 +1,28 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend
+backend/.env
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+backend/uploads/audio/*
+!backend/uploads/audio/.gitkeep
+
+# Python
+.venv/
+venv/
+.env
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
